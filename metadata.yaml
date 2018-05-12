@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '40316'
     url: http://www.gutenberg.org/2009/agents/40316
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39932#The-Lure-of-Old-London
 gutenberg_issued: '2012-06-06'
 gutenberg_type: Text
 identifiers:
